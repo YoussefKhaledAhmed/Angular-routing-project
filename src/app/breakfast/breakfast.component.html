@@ -1,0 +1,9 @@
+<div class="container mb-5 mt-5">
+    <div class="row row-gap-3">
+        @for (meal of breakFastMeals; track $index) {
+        <div class="col-md-3">
+            <app-card [meal]="meal"></app-card>
+        </div>
+        }
+    </div>
+</div>

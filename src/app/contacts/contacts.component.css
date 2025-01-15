@@ -1,0 +1,6 @@
+.contacts-top-bottom{
+    height: 3rem;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom: 1px solid #dee2e6;
+}
