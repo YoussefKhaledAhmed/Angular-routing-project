@@ -1,0 +1,13 @@
+.custom-bg-color{
+    background-color: #0DCAF0;
+}
+
+.red-color{
+    color: red;
+}
+
+.custom-btn-style{
+    height: 2rem;
+    color: white;
+    outline: none;
+}
